@@ -26,8 +26,8 @@ author:
   avatar           : "Hao Chen.png"
   name             : "Hao Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in oxide thin films, probing defect-driven electronic and transport properties using synchrotron X-ray spectroscopy and advanced methods. test"
-  location         : "Italy"
+  bio              : "Researcher in oxide thin films, probing defect-driven electronic and transport properties using synchrotron X-ray spectroscopy and advanced methods."
+  location         : "Milan, Italy"
   employer         : "Politecnico di Milano"
   uri              : # URL
   email            : "hao.chen@outlook.it" 
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6838-0642"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
