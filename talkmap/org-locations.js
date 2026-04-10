@@ -15,6 +15,11 @@ var addressPoints = [
     7.7507127
   ],
   [
+    "FISMAT: XAS and RIXS investigation of oxygen vacancy engineering in WO3-x films: from amorphous to crystalline phases<br />Ca' Foscari University - Campus San Giobbe; Venice, Italy",
+    45.4046171,
+    12.3105232
+  ],
+  [
     "EOSAM: Near-IR transparent conductive amorphous tungsten oxide thin layers by non-reactive radio-frequency magnetron sputtering<br />Engineering Faculty, Sapienza University of Roma; Rome, Italy.",
     41.8933203,
     12.4829321
