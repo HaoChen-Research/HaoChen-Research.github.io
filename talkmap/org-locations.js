@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "108\u00b0 Congresso Nazionale: Tailorable WO3 for near-IR photonics and transparent-conductive films<br />Department of Physics, Universit\u00e0 degli Studi di Milano; Milan, Italy",
+    45.4641943,
+    9.1896346
   ],
   [
     "EOSAM: Near-IR transparent conductive amorphous tungsten oxide thin layers by non-reactive radio-frequency magnetron sputtering<br />Sapienza University of Roma - Engineering Faculty; Rome, Italy.",
