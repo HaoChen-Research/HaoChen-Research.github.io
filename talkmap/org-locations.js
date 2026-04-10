@@ -5,9 +5,9 @@ var addressPoints = [
     9.1896346
   ],
   [
-    "FISMAT: XAS and RIXS investigation of oxygen vacancy engineering in WO3-x films: from amorphous to crystalline phases<br />Ca' Foscari University - Campus San Giobbe; Venice, Italy",
-    45.4046171,
-    12.3105232
+    "ESRF user meeting: Local structure of amorphous and crystalline WO3-x thin films studied by XANES and EXAFS<br />ESRF; Grenoble, France",
+    45.1875602,
+    5.7357819
   ],
   [
     "SPIE photonics Europe: Amorphous WO3 as transparent conductive oxide in the near-IR<br />Palais de la Musique et des Congr\u00e8s; Strasbourg, France",
