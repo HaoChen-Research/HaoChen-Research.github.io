@@ -1,7 +1,9 @@
 ---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src=''>"
-Key achievements: 
+Key achievements: •	Performed operando XAS to monitor electronic and structural evolution under working conditions 
+•	Developed Python-based workflows to decouple thermal and chemical contributions in operando datasets 
+
 collection: portfolio
 ---
 
