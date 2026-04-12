@@ -1,6 +1,6 @@
 ---
 title: "3-Month Research Stay – ESRF (France)"
-excerpt: "Focus: Synchrotron-based X-ray spectroscopy and user support"
+excerpt: "Synchrotron-based X-ray spectroscopy and user support"
 excerpt: Key Activities:
 - Trained in synchrotron instrumentation and advanced experimental methods  
 - Performed X-ray spectroscopy experiments and data analysis  
