@@ -7,17 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my website! Hao Chen is a researcher specializing in the growth and characterization of transition metal oxide thin films. His work investigates how intrinsic defects govern electronic structure, transport properties, and charge-carrier dynamics. He combines advanced spectroscopy and multi-technique characterization to uncover structure–property relationships under functional conditions.
+Thank you for visiting my website! I am a junior researcher with experience in the growth and characterization of functional oxide thin film systems. My work mainly investigates how intrinsic defects govern electronic structure, transport properties, and charge-carrier dynamics. I combine complementary techniques, including electron microscopy, X-ray diffraction, optical spectroscopy, ultrafast pump–probe methods, and synchrotron-based X-ray spectroscopy (XANES, EXAFS, and RIXS), to uncover fundamental structure–property relationships.
 
 Research Interests
 ======
-- X-ray Absorption Spectroscopy (XAS)
-- Resonant Inelastic X-ray Scattering (RIXS)
+- Semiconductors
 - Transition metal oxides
+- Functional materials
 - Defect chemistry and electronic structure
-- Operando spectroscopy
-- Energy materials
-
+- Synchrotron-based spectroscopy
+- Transient carrier dynamics
 
 For more info
 ------
