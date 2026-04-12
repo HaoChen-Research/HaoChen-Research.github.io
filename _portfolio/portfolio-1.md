@@ -1,8 +1,6 @@
 ---
 title: "3-Month Research Stay – ESRF (France)"
 excerpt: "Focus: Synchrotron-based X-ray spectroscopy and user support"
-excerpt: "Key Activities:"
-
 collection: portfolio 
 ---
 
