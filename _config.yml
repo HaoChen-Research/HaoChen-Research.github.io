@@ -26,7 +26,7 @@ author:
   avatar           : "Hao.jpg"
   name             : "Hao Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher in oxide thin films, probing defect-driven electronic and transport properties using synchrotron X-ray spectroscopy and advanced methods."
+  bio              : <p style="text-align: justify;">"Researcher in oxide thin films, probing defect-driven electronic and optocal/transport properties using synchrotron X-ray spectroscopy and advanced methods."</p>
   location         : "Milan, Italy"
   employer         : "Politecnico di Milano"
   uri              : # URL
