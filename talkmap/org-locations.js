@@ -10,7 +10,7 @@ var addressPoints = [
     5.7357819
   ],
   [
-    "SPIE photonics Europe: Amorphous WO3 as transparent conductive oxide in the near-IR<br />Palais de la Musique et des Congr\u00e8s; Strasbourg, France",
+    "SPIE photonics Europe: Amorphous WO<sub>3-x</sub> as transparent conductive oxide in the near-IR<br />Palais de la Musique et des Congr\u00e8s; Strasbourg, France",
     48.584614,
     7.7507127
   ],
