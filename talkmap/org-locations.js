@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "CMD30-FISMAT: Effect of annealing in air, N<sub>2</sub> and vacuum on the structure of RF-sputtered tungsten oxide thin films<br />Politecnico di Milano; Milan, Italy",
+    "CMD30-FISMAT: Effect of annealing in air, N<sub>2</sub> and vacuum on the structure of RF-sputtered WO<sub>3-x</sub> thin films<br />Politecnico di Milano; Milan, Italy",
     45.4641943,
     9.1896346
   ],
