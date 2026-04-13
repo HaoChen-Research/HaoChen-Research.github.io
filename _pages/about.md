@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my website. I am an early-career researcher specializing in the experimental characterization of functional oxide thin films. My work integrates complementary techniques, including electron microscopy, atomic force microscopy, X-ray diffraction, optical spectroscopy, ellipsometry, electrical transport measurements, ultrafast pump–probe methods, and synchrotron-based X-ray spectroscopy (XANES, EXAFS, and RIXS), to uncover structure–property relationships in complex oxides, with a focus on how intrinsic defects govern electronic structure and transport behavior.
+Thank you for visiting my website. I am an early-career researcher specializing in the experimental characterization of functional oxide thin films. My work integrates complementary techniques, including electron microscopy, atomic force microscopy, X-ray diffraction, optical spectroscopy, ellipsometry, electrical transport measurements, ultrafast pump–probe methods, and synchrotron-based X-ray spectroscopy (XANES, EXAFS, and RIXS), to uncover structure–property relationships in complex oxides, with a focus on how intrinsic defects govern electronic structure and optical/transport behaviors.
 
 Research Interests
-======
+------
 - Semiconductors
 - Functional oxide materials
 - Defect chemistry
