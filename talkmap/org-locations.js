@@ -15,7 +15,7 @@ var addressPoints = [
     7.7507127
   ],
   [
-    "FISMAT: XAS and RIXS investigation of oxygen vacancy engineering in WO3-x films: from amorphous to crystalline phases<br />Ca' Foscari University - Campus San Giobbe; Venice, Italy",
+    "FISMAT: XAS and RIXS investigation of oxygen vacancy engineering in WO<sub>3-x</sub> films: from amorphous to crystalline phases<br />Ca' Foscari University - Campus San Giobbe; Venice, Italy",
     45.4046171,
     12.3105232
   ],
