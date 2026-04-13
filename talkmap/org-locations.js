@@ -20,7 +20,7 @@ var addressPoints = [
     12.3105232
   ],
   [
-    "EOSAM: Near-IR transparent conductive amorphous tungsten oxide thin layers by non-reactive RF-sputtering<br />Engineering Faculty, Sapienza University of Roma; Rome, Italy.",
+    "EOSAM: near-IR transparent conductive amorphous tungsten oxide thin layers by non-reactive RF-sputtering<br />Engineering Faculty, Sapienza University of Roma; Rome, Italy.",
     41.8933203,
     12.4829321
   ],
