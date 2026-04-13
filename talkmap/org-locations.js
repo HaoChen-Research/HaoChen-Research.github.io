@@ -1,11 +1,11 @@
 var addressPoints = [
   [
-    "CMD30-FISMAT: Effect of annealing in air, N2 and vacuum on the structure of RF-sputtered tungsten oxide thin films<br />Politecnico di Milano; Milan, Italy",
+    "CMD30-FISMAT: Effect of annealing in air, N<sub>2</sub> and vacuum on the structure of RF-sputtered tungsten oxide thin films<br />Politecnico di Milano; Milan, Italy",
     45.4641943,
     9.1896346
   ],
   [
-    "ESRF user meeting: Local structure of amorphous and crystalline WO3-x thin films studied by XANES and EXAFS<br />ESRF; Grenoble, France",
+    "ESRF user meeting: Local structure of amorphous and crystalline WO<sub>3-x</sub> thin films studied by XANES and EXAFS<br />ESRF; Grenoble, France",
     45.1875602,
     5.7357819
   ],
@@ -25,7 +25,7 @@ var addressPoints = [
     12.4829321
   ],
   [
-    "108\u00b0 Congresso Nazionale: Tailorable WO3 for near-IR photonics and transparent-conductive films<br />Department of Physics, Universit\u00e0 degli Studi di Milano; Milan, Italy",
+    "108\u00b0 Congresso Nazionale: Tailorable WO<sub>3-x</sub> for near-IR photonics and transparent-conductive films<br />Department of Physics, Universit\u00e0 degli Studi di Milano; Milan, Italy",
     45.4641943,
     9.1896346
   ]
