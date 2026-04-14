@@ -15,7 +15,7 @@ Research Interests
 ======
 - Semiconductors
 - Functional oxide materials
-- Defect chemistry
+- Defect physics
 - Electronic structure
 - Transient carrier dynamics
 - Synchrotron-based spectroscopy
