@@ -13,12 +13,13 @@ Thank you for visiting my website. I am an early-career researcher specializing 
 
 Research Interests
 ======
+- Physical Vapor Deposition
 - Semiconductors
-- Functional oxide materials
-- Defect physics
-- Electronic structure
-- Transient carrier dynamics
-- Synchrotron-based spectroscopy
+- Functional Oxide Materials
+- Defect Physics
+- Electronic Structure
+- Transient Carrier Dynamics
+- Synchrotron-based Spectroscopy
 
 For more info
 ======
