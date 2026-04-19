@@ -18,7 +18,6 @@ Research Interests
 - Functional Oxide Materials
 - Defect Physics
 - Electronic Structure
-- Transient Carrier Dynamics
 - Synchrotron-based Spectroscopy
 
 For more info
