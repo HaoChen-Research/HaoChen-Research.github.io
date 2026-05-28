@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Thank you for visiting my website. I am an experimental researcher focused on understanding structure–property relationships in complex functional oxides, with particular emphasis on how intrinsic defects govern electronic structure and material functionalities. My work combines complementary experimental approaches, including electron microscopy, atomic force microscopy, X-ray diffraction, optical spectroscopy, ellipsometry, electrical transport measurements, ultrafast pump–probe techniques, and synchrotron-based X-ray spectroscopy (XANES, EXAFS, and RIXS), to link atomic-scale structure with macroscopic properties, with the ultimate aim of enabling the rational design and development of functional devices for real-world applications.
+Thank you for visiting my website. I am a researcher in complex oxide thin films, focusing on defect-driven evolution of electronic structure and structure–property relationships. I have experience in thin-film growth techniques, including RF magnetron sputtering and pulsed laser deposition (PLD), combined with synchrotron-based spectroscopic methods such as XANES/EXAFS, RIXS, and operando XAS to probe the evolution of local structure and electronic states. I have a strong track record in designing synchrotron experiments, preparing beamtime proposals, and independently operating beamlines. My expertise also includes integrating multimodal characterization techniques with Python-based spectroscopic analysis workflows to gain mechanistic insights into complex material systems. I have worked in multidisciplinary, international research environments, with publications in peer-reviewed journals and presentations at international conferences.
 </p>
 
 Research Interests
