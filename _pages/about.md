@@ -13,12 +13,10 @@ Thank you for visiting my website. I am a researcher in complex oxide thin films
 
 Research Interests
 ======
-- Physical Vapor Deposition
-- Semiconductors
-- Functional Oxide Materials
-- Defect Physics
-- Electronic Structure
-- Synchrotron-based Spectroscopy
+- Complex oxide thin films and heterostructures
+- Defect-mediated electronic structure evolution
+- Synchrotron-based spectroscopy
+- Structure–property relationships in functional materials
 
 For more info
 ======
